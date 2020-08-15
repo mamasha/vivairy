@@ -12,7 +12,7 @@
   - Too easy
   - Doable
 
-- Make an account on this site
+- Make an account on this site github.com
 - Send me your username (without password)
   - So I will add you to be a collaborator
 
