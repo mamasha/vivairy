@@ -7,6 +7,8 @@
   - I will need your credentials to view your code
 - Go to https://leetcode.com/explore/learn/card/fun-with-arrays/
 - Try to read the introduction and solve three problems from there
+  - Run the code (button) to check it
+  - Submit the code when it is working
 - Your goal is to understand if it is for you
   - Too complex
   - Too easy
