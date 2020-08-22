@@ -13,7 +13,7 @@ Start with this one. It's a very short, just to the point overview.
 
 - [1.1: Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)  
 - [1.2: Branches - Git and GitHub for Poets](https://www.youtube.com/watch?v=oPpnCh7InLY)  
-These two looks very nice. I didn't finish them but it's very promising. Tell me if it worths the time.
+These two look very nice. I didn't finish them but they are very promising. Tell me if it worths the time.
 
 
 - [Hello World](https://guides.github.com/activities/hello-world/)  
