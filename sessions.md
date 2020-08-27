@@ -1,5 +1,12 @@
 ### 22/8/2020
 
+- Install [Notepad++](https://notepad-plus-plus.org/downloads/)
+- Install this [git client for Windows](https://gitforwindows.org/)
+- You can follow [this video guide](https://www.youtube.com/watch?v=nbFwejIsHlY)
+  - Keep all defaults except
+  - Choose Notepad++ as a default editor
+- We will go through [configuration this tutorial](https://kbroman.org/github_tutorial/pages/first_time.html) together
+
 #### We talked about
 
 - Anki and modeling your knowledge
