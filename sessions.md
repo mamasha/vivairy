@@ -1,3 +1,11 @@
+### 29/8/2020
+
+- File extensions (.txt, *.doc, *.java)
+- A single flash card per single idea (mind model)
+- FizzBuzz
+
+---
+
 ### 22/8/2020
 
 - Install [Notepad++](https://notepad-plus-plus.org/downloads/)
