@@ -19,3 +19,4 @@
   - So I will add you to be a collaborator
 
 Have a nice day.
+Have a nice week!
