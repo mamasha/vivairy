@@ -21,3 +21,4 @@
 Have a nice day.
 Have a nice week!
 Very good week!
+All the good wishes.
